@@ -34,6 +34,7 @@ go build -o trimvideo.exe trimvideo.go
 
 
 
+
 🎮 Usage
 ---------------------------------------------------------------------------
 Navigation: Use the Arrow Keys to navigate the directory tree.
