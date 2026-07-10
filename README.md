@@ -30,8 +30,7 @@ go run trimvideo.go
 
 or 
 
-go build -o trimvideo
-./trimvideo
+go build -o trimvideo.exe trimvideo.go
 
 
 
