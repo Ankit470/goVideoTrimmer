@@ -1,0 +1,11 @@
+
+# Binaries
+*.exe
+
+# Media files
+*.mkv
+*.mp4
+
+# Temporary or scrap files
+*.scrap
+*.scrap2
